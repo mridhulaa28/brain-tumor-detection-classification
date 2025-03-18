@@ -3,10 +3,10 @@
 ### Overview
 
 This project develops a deep learning-based solution for accurately classifying brain tumors in MRI images. The classification task includes four categories:<br>
-&nbsp;&nbsp;&nbsp;Glioma<br>
-&nbsp;&nbsp;&nbsp;Meningioma<br>
-&nbsp;&nbsp;&nbsp;Pituitary tumor<br>
-&nbsp;&nbsp;&nbsp;No tumor<br>
+&nbsp;&nbsp;&nbsp;🔹Glioma<br>
+&nbsp;&nbsp;&nbsp;🔹Meningioma<br>
+&nbsp;&nbsp;&nbsp;🔹Pituitary tumor<br>
+&nbsp;&nbsp;&nbsp;🔹No tumor<br>
 
 
 ### Objective
