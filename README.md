@@ -1,17 +1,36 @@
-__Brain Tumor Identification and Classification using Pre-Trained CNN - MobileNetV2__    
-__Purpose:__  
-This project aims to develop a deep learning-based solution for accurate classification of brain tumors in MRI images. The classification task involves four main categories of brain tumors: glioma, meningioma, pituitary tumor, and no tumor. Accurate localization and categorization of brain tumors are crucial for effective medical interventions and improved patient outcomes.
+## Brain Tumor Identification and Classification using Pre-Trained CNN - MobileNetV2   
+📌 **Overview**<br>
+This project develops a deep learning-based solution for accurately classifying brain tumors in MRI images. The classification task includes four categories:<br>
+&nbsp;&nbsp;&nbsp;Glioma<br>
+&nbsp;&nbsp;&nbsp;Meningioma<br>
+&nbsp;&nbsp;&nbsp;Pituitary tumor<br>
+&nbsp;&nbsp;&nbsp;No tumor<br>
+Accurate classification is crucial for medical diagnosis and can aid in effective treatment planning.<br>
 
-__Overview:__  
-__Objective:__ Develop a deep learning model for brain tumor classification in MRI images.  
-__Method:__ Transfer learning with MobileNetV2 fine-tuned for classification task.  
-__Dataset:__ Kaggle dataset with 3,264 MRI scans (2,870 for training, 394 for testing).  
-__Evaluation:__ Model performance evaluated through metrics like accuracy, loss, and visualizations.  
+🎯 **Objective**<br>
+✔ Develop a deep learning model for brain tumor classification in MRI images.<br>
+✔ Utilize transfer learning with MobileNetV2 fine-tuned for classification.<br>
+✔ Evaluate model performance using key metrics like accuracy and loss.<br>
 
-__Results:__  
-__Training Accuracy:__ 96%  
-__Testing Accuracy:__ 88%  
-__Model Performance:__ High classification accuracy for all tumor types.  
+🛠 **Methodology**<br>
+🔹 Model: Pre-trained MobileNetV2, fine-tuned for classification.<br>
+🔹 Dataset: Kaggle MRI dataset with 3,264 MRI scans (2,870 for training, 394 for testing).<br>
+🔹 Evaluation Metrics: Accuracy, loss, and visualizations.<br>
 
-__Conclusion:__  
-This project demonstrates the effectiveness of deep learning, specifically transfer learning with MobileNetV2, for brain tumor classification in MRI images. The model shows high accuracy in classifying different types of brain tumors, which can potentially improve diagnosis and treatment planning for neurological disorders. The code and trained model can be used for further research and applications in medical imaging.  
+📊 **Results & Performance**<br>
+📈 Training Accuracy: 96%<br>
+🏆 Model Performance: Achieved high classification accuracy across all tumor types.<br>
+
+📸 **Screenshots**<br>
+![image](https://github.com/user-attachments/assets/f58284d0-8ea1-4349-88b2-639c507608be)<br>
+
+
+📊 **Performance Accuracy and Loss Graphs**<br>
+![image](https://github.com/user-attachments/assets/89085d32-bba4-4a81-b5dd-7fbeabba5820)
+
+
+**Conclusion**<br>
+This project demonstrates the effectiveness of deep learning, specifically transfer learning with MobileNetV2, for brain tumor classification in MRI images.<br>
+
+✔ High accuracy in classifying tumor types.<br>
+✔ Can be extended for further research in medical imaging.<br>
