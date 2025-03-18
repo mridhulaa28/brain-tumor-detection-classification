@@ -5,7 +5,7 @@ This project develops a deep learning-based solution for accurately classifying 
 &nbsp;&nbsp;&nbsp;Meningioma<br>
 &nbsp;&nbsp;&nbsp;Pituitary tumor<br>
 &nbsp;&nbsp;&nbsp;No tumor<br>
-Accurate classification is crucial for medical diagnosis and can aid in effective treatment planning.<br>
+
 
 🎯 **Objective**<br>
 ✔ Develop a deep learning model for brain tumor classification in MRI images.<br>
